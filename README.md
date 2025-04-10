@@ -38,9 +38,9 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/NicolasJamar/chat-demo-react.git
-   ```
+```bash
+git clone https://github.com/NicolasJamar/chat-demo-react.git
+```
 
 2. **Navigate to the Project Directory**:
 
