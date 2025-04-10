@@ -9,6 +9,24 @@ This repository showcases a real-time chat application built using [React](https
 - **Node.js Backend**: A lightweight server powered by Node.js and Express.
 - **Socket.IO Integration**: Efficient real-time event handling between client and server.
 
+## 🧰 Technologies Used
+- **Frontend**:
+  - React
+  - CSS (for basic styling)
+
+- **Backend**:
+  - Node.js
+  - Express
+  - Socket.IO
+
+
+## 📁 Project Structure
+```bash
+chat-demo-react/
+├── client/      # React frontend source code
+└── server/      # Node.js and Express backend source code
+```
+
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -22,6 +40,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/NicolasJamar/chat-demo-react.git
+   ```
 
 2. **Navigate to the Project Directory**:
 
@@ -71,22 +90,8 @@ The client will open in your default web browser at `http://localhost:5173`.
 
 - Start sending messages, and observe them appear in real-time across all connected clients.
 
-## Project Structure
-```bash
-chat-demo-react/
-├── client/      # React frontend source code
-└── server/      # Node.js and Express backend source code
-```
 
-## Technologies Used
-- **Frontend**:
-  - React
-  - CSS (for basic styling)
 
-- **Backend**:
-  - Node.js
-  - Express
-  - Socket.IO
 
 
 
