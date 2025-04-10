@@ -1,10 +1,8 @@
-# Chat Application Demo with React and Socket.IO
-
-About socket.io, visit the documentation: https://socket.io/docs/v4/
+# 💬 Chat Application Demo with React and Socket.IO
 
 This repository showcases a real-time chat application built using [React](https://reactjs.org/) for the frontend and [Socket.IO](https://socket.io/) for real-time bidirectional event-based communication between clients and servers. The project serves as a demonstration for Becode.
 
-## Features
+## 🚀 Features
 
 - **Real-time Communication**: Instant messaging between connected users leveraging WebSockets.
 - **React Frontend**: A responsive and dynamic user interface built with React.
@@ -18,7 +16,7 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/en/download/) (v14 or later)
 - [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
 
-## Installation
+## 🛠️ Installation
 
 1. **Clone the Repository**:
 
@@ -47,7 +45,7 @@ cd ../client
 npm install
 ```
 
-## Running the Application
+## ▶️ Running the Application
 1.**Start the Server**:
 
 ```bash
@@ -66,7 +64,7 @@ npm start
 ```
 The client will open in your default web browser at `http://localhost:5173`.
 
-## Usage
+## 📦 Usage
 - Open multiple browser tabs or separate browsers and navigate to `http://localhost:5173` to simulate multiple users.
 
 - Enter a username when prompted.
