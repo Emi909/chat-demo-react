@@ -27,7 +27,7 @@ chat-demo-react/
 └── server/      # Node.js and Express backend source code
 ```
 
-## Prerequisites
+## ✅ Prerequisites
 
 Ensure you have the following installed:
 
@@ -69,7 +69,7 @@ npm install
 
 ```bash
 cd server
-npm start
+npm run dev
 ```
 The server will run on `http://localhost:3500`.
 
@@ -79,7 +79,7 @@ Open a new terminal window and run:
 
 ```bash
 cd client
-npm start
+npm run dev
 ```
 The client will open in your default web browser at `http://localhost:5173`.
 
