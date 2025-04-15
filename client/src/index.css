@@ -87,11 +87,11 @@ button {
 }
 
 .post__header--user {
-  background-color: blue;
+  background-color: rgb(36, 94, 71);
 }
 
 .post__header--reply {
-  background-color: purple;
+  background-color: rgb(192, 145, 63);
 }
 
 .post__header--name {
